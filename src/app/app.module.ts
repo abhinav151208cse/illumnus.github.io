@@ -10,6 +10,8 @@ import { NgModule } from '@angular/core';
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { PasswordlessAuthComponent } from './passwordless-auth/passwordless-auth.component';
+
+
 const firebaseConfig = {    
     apiKey: "AIzaSyCBbWMNu7hgNvZ5mSAaJzs6eJph0xGlUZM",
     authDomain: "email-946b7.firebaseapp.com",
